@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me: https://www.linkedin.com/in/genaroarellano/
+- 📊 Take a look at my visualizations: https://public.tableau.com/app/profile/genaro.arellano
 
 <!---
 GArellano9/GArellano9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
